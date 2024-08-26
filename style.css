@@ -187,7 +187,7 @@ body {
 }
 
 .section__title {
-  color: #fff;
+  color: #10ec1b;
   font-family: Chakra Petch;
   font-size: 88px;
   font-style: normal;
@@ -197,7 +197,7 @@ body {
 }
 
 .section__title > span {
-  color: #1875e8;
+  color: #0d6adb;
 }
 
 .secondary {

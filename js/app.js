@@ -1,0 +1,4 @@
+amigo = []
+
+function adicionar() {
+    
