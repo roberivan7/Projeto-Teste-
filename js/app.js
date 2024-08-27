@@ -1,4 +1,7 @@
 amigo = []
 
 function adicionar() {
+  if()  {
     
+  }
+}
