@@ -1,4 +1,2 @@
-amigo = []
 
-function adicionar() {
     
